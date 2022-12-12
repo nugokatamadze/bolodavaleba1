@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844606564883",
+    "project_id": "bolodavalebaaaa",
+    "storage_bucket": "bolodavalebaaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844606564883:android:a53740b777bd475b77ede6",
+        "android_client_info": {
+          "package_name": "com.example.bolodavaleba1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844606564883-cq6ga870jksibvpe014stegjaurkvb24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_UaUXkiaNOtPtMibnC02pUN2Xe8_-TCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844606564883-cq6ga870jksibvpe014stegjaurkvb24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
